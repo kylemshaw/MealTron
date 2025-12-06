@@ -1,0 +1,6 @@
+@MealTron.API_HostAddress = http://localhost:5085
+
+GET {{MealTron.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
